@@ -77,14 +77,7 @@ Espero olhar para esse perfil daqui a alguns anos e ver o quanto evoluí.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img
-    align="left"
-    alt="java"
-    title="java"
-    width="30px"
-    style="padding-right: 10px;"
-    img src = " https://devicon-website.vercel.app/api/java/original.svg " > </img>
-<br/>
+
 <br/>
 
 <h3 align="left">GitHub Stats</h3>
