@@ -23,7 +23,7 @@ Espero olhar para esse perfil daqui a alguns anos e ver o quanto evoluí.
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/zzzozid/)
 
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My languages</h3>
 
 <img 
     align="left" 
