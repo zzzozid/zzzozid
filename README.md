@@ -6,12 +6,11 @@
 
 # E aí! Eu sou o Bryan. 
 
-Tenho 17 anos e estou dando meus primeiros passos na programação. Sempre tive curiosidade por tecnologia e resolvi aprender a programar para entender melhor como tudo funciona e transformar minhas ideias em projetos.
+<i> Tenho 17 anos e estou dando meus primeiros passos na programação. Sempre tive curiosidade por tecnologia e resolvi aprender a programar para entender melhor como tudo funciona e transformar minhas ideias em projetos.
 
 Ainda estou aprendendo bastante, então este GitHub vai acompanhar minha evolução. Aqui você vai encontrar meus estudos, exercícios e projetos conforme eu for adquirindo mais experiência.
 
 Espero olhar para esse perfil daqui a alguns anos e ver o quanto evoluí.
- 
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
